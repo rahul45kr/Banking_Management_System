@@ -10,9 +10,13 @@ Features:
 *JDBC-based secure database operations
 
 Tech Stack:
-Language: Java,
-Database: MySQL,
-ORM: JDBC,
-IDE: IntelliJ IDEA / Eclipse,
+Language: Java
+
+Database: MySQL
+
+ORM: JDBC
+
+IDE: IntelliJ IDEA / Eclipse
+
 Version Control: Git, GitHub
 
