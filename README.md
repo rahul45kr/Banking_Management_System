@@ -16,6 +16,7 @@ Features:
 *JDBC-based secure database operations
 
 Tech Stack:
+
 Language: Java
 
 Database: MySQL
