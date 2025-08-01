@@ -1,4 +1,4 @@
-Banking Management System (Core Java + JDBC + MySQL)
+**Banking Management System (Core Java + JDBC + MySQL)**
 
 Features:
 *Create new customer bank accounts
@@ -15,7 +15,7 @@ Features:
 
 *JDBC-based secure database operations
 
-Tech Stack:
+**Tech Stack:**
 
 Language: Java
 
