@@ -1,29 +1,21 @@
-**Banking Management System (Core Java + JDBC + MySQL)**
+# Banking Record System
 
-Features:
-*Create new customer bank accounts
+This is a simple Banking Record Management System built using **Java and Spring Boot**.  
+It can store customer details, manage accounts, and handle basic banking operations.
 
-*Deposit and withdraw money
+---
 
-*Check account balance in real-time
+## Features
+- Add new customer records
+- View customer/account details
+- Deposit and withdraw money
+- Update customer information
+- Delete customer records
+- Store data in a database
 
-*View account details
+---
 
-*Update account information
-
-*Delete account
-
-*JDBC-based secure database operations
-
-**Tech Stack:**
-
-Language: Java
-
-Database: MySQL
-
-ORM: JDBC
-
-IDE: IntelliJ IDEA / Eclipse
-
-Version Control: Git, GitHub
-
+## Technologies Used
+- Java
+- Spring Boot
+- MySQL 
