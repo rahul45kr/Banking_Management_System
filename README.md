@@ -1,21 +1,29 @@
-# Banking Record System
+# 🏦 Banking Management System
 
-This is a simple Banking Record Management System built using **Java and Spring Boot**.  
-It can store customer details, manage accounts, and handle basic banking operations.
-
----
-
-## Features
-- Add new customer records
-- View customer/account details
-- Deposit and withdraw money
-- Update customer information
-- Delete customer records
-- Store data in a database
+A simple **Banking Management System** built using **Core Java**, **Object-Oriented Programming (OOP)** concepts, and **Collections Framework**.  
+This project simulates real-world banking operations such as creating an account, depositing money, withdrawing funds, and viewing transaction details — all through a console-based interface.
 
 ---
 
-## Technologies Used
-- Java
-- Spring Boot
-- MySQL 
+## 🚀 Features
+- Create new bank accounts  
+- Deposit and withdraw money  
+- Check account balance  
+- View all customer account details  
+- Delete an existing account  
+- Search account by account number or name  
+- Data stored and managed using **Java Collections (HashMap, ArrayList)**  
+
+---
+
+## 🧠 Concepts Used
+- **Core Java**
+- **Object-Oriented Programming (OOP)**  
+  - Classes and Objects  
+  - Inheritance  
+  - Encapsulation  
+  - Abstraction  
+  - Polymorphism  
+- **Java Collections Framework**
+  - `HashMap` for account storage  
+  - `ArrayList` for transaction history  
